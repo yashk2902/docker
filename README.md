@@ -1,3 +1,5 @@
 # docker
- sysyem requirements java
+ #sysyem requirements 
+ #java version 11
+ 
  
